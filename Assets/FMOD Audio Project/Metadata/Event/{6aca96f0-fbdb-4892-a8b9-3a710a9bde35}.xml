@@ -66,7 +66,11 @@
 			<destination>{e12767b1-3ee7-4aa9-afe4-70ee12b8ae01}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{c2cd38e9-e938-4b34-b361-d23adc16cf72}" />
+	<object class="EventAutomatableProperties" id="{c2cd38e9-e938-4b34-b361-d23adc16cf72}">
+		<property name="dopplerScale">
+			<value>330</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{8d65d4ed-be76-4d8e-ba4c-a1f7c3a6624d}" />
 	<object class="MarkerTrack" id="{da7d4eaf-88a0-45df-9d80-8d4a1850bede}" />
 	<object class="GroupTrack" id="{0f3cc508-6a4e-444c-b148-131401eebfe4}">
@@ -349,6 +353,9 @@
 		</relationship>
 	</object>
 	<object class="MultiSound" id="{2302e1ee-1212-48b7-a381-ef73f4250df8}">
+		<property name="color">
+			<value>Yellow Light 2</value>
+		</property>
 		<property name="isAsync">
 			<value>true</value>
 		</property>
@@ -369,6 +376,9 @@
 		</relationship>
 	</object>
 	<object class="MultiSound" id="{c7b2916a-0b43-46a0-a9d0-4c446a2529ec}">
+		<property name="color">
+			<value>Yellow Light 2</value>
+		</property>
 		<property name="isAsync">
 			<value>true</value>
 		</property>
@@ -429,6 +439,9 @@
 		</relationship>
 	</object>
 	<object class="MultiSound" id="{6f88976b-f2bf-4e4c-91df-1f8b1bd243d0}">
+		<property name="color">
+			<value>Yellow Light 2</value>
+		</property>
 		<property name="isAsync">
 			<value>true</value>
 		</property>
@@ -449,6 +462,9 @@
 		</relationship>
 	</object>
 	<object class="MultiSound" id="{d4f5d0c6-5feb-4691-b45c-9a5080f03b48}">
+		<property name="color">
+			<value>Yellow Light 2</value>
+		</property>
 		<property name="isAsync">
 			<value>true</value>
 		</property>
@@ -523,6 +539,9 @@
 		</relationship>
 	</object>
 	<object class="MultiSound" id="{4372fd27-9c5e-46ee-8900-c465012034d5}">
+		<property name="color">
+			<value>Yellow Light 1</value>
+		</property>
 		<property name="isAsync">
 			<value>true</value>
 		</property>
@@ -543,6 +562,9 @@
 		</relationship>
 	</object>
 	<object class="MultiSound" id="{4eea4200-d3c3-411f-aa6e-640520796fc3}">
+		<property name="color">
+			<value>Yellow Light 1</value>
+		</property>
 		<property name="isAsync">
 			<value>true</value>
 		</property>
@@ -603,6 +625,9 @@
 		</relationship>
 	</object>
 	<object class="MultiSound" id="{8d87a2d0-469e-4721-9358-7366f60cdeea}">
+		<property name="color">
+			<value>Yellow Light 1</value>
+		</property>
 		<property name="isAsync">
 			<value>true</value>
 		</property>
@@ -623,6 +648,9 @@
 		</relationship>
 	</object>
 	<object class="MultiSound" id="{b7b5fd8a-a7a2-42a9-ba46-7457383768c0}">
+		<property name="color">
+			<value>Yellow Light 1</value>
+		</property>
 		<property name="isAsync">
 			<value>true</value>
 		</property>
@@ -682,6 +710,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{c5320026-ebea-4c90-8293-4454fa8dfe40}">
+		<property name="color">
+			<value>Yellow</value>
+		</property>
 		<property name="start">
 			<value>0.11029411764705883</value>
 		</property>
@@ -696,6 +727,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{605e4f0c-61d5-40d5-b190-be64aa7f8374}">
+		<property name="color">
+			<value>Yellow</value>
+		</property>
 		<property name="start">
 			<value>7.1691176470588234</value>
 		</property>
@@ -710,6 +744,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{e0c4d966-5698-4555-9a26-0bfc43e2d135}">
+		<property name="color">
+			<value>Yellow</value>
+		</property>
 		<property name="start">
 			<value>14.227941176470587</value>
 		</property>
@@ -724,6 +761,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{c71db927-e42e-48fc-9f12-66f84564de7b}">
+		<property name="color">
+			<value>Yellow</value>
+		</property>
 		<property name="start">
 			<value>21.286764705882351</value>
 		</property>
@@ -738,6 +778,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{c63ed8b0-dd49-41ca-b2d2-f843bcf18e17}">
+		<property name="color">
+			<value>Yellow</value>
+		</property>
 		<property name="start">
 			<value>28.290441176470587</value>
 		</property>
@@ -752,6 +795,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{da9ff913-16aa-4648-8070-5bc726308ad1}">
+		<property name="color">
+			<value>Yellow</value>
+		</property>
 		<property name="start">
 			<value>35.349264705882348</value>
 		</property>
@@ -788,6 +834,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{0607eacd-753b-4c00-ad3d-96c4a7106189}">
+		<property name="color">
+			<value>Red Light 1</value>
+		</property>
 		<property name="start">
 			<value>0.11029411764705883</value>
 		</property>
@@ -802,6 +851,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{90d361cc-8af2-4f25-9d61-38573e7bf4f2}">
+		<property name="color">
+			<value>Red Light 1</value>
+		</property>
 		<property name="start">
 			<value>7.1691176470588234</value>
 		</property>
@@ -816,6 +868,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{79a3b834-0c61-4c7f-a406-05fc1baf7970}">
+		<property name="color">
+			<value>Red Light 1</value>
+		</property>
 		<property name="start">
 			<value>14.227941176470587</value>
 		</property>
@@ -830,6 +885,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{bdd10aa0-0e98-495a-9a14-6459483cfa9d}">
+		<property name="color">
+			<value>Red Light 1</value>
+		</property>
 		<property name="start">
 			<value>28.345588235294116</value>
 		</property>
@@ -844,6 +902,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{a2c4a80e-5e93-49a7-8517-4299b024bf11}">
+		<property name="color">
+			<value>Red Light 1</value>
+		</property>
 		<property name="start">
 			<value>21.286764705882351</value>
 		</property>
@@ -858,6 +919,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{b64502f2-6aba-4fb0-9e7e-ffbc3049aa85}">
+		<property name="color">
+			<value>Red Light 1</value>
+		</property>
 		<property name="isAsync">
 			<value>true</value>
 		</property>
@@ -897,6 +961,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{aabd5808-09fc-4183-8f1d-9cf5faa825e3}">
+		<property name="color">
+			<value>Red</value>
+		</property>
 		<property name="start">
 			<value>0.11029411764705883</value>
 		</property>
@@ -911,6 +978,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{f2c74847-e58c-4d76-82e4-049d13802fc4}">
+		<property name="color">
+			<value>Red</value>
+		</property>
 		<property name="start">
 			<value>7.1691176470588234</value>
 		</property>
@@ -925,6 +995,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{46f05e74-4e57-4b31-b3e7-6f5a1b8c4158}">
+		<property name="color">
+			<value>Red</value>
+		</property>
 		<property name="start">
 			<value>14.227941176470587</value>
 		</property>
@@ -939,6 +1012,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{30e9a01b-203f-4944-ac94-c109c5ec36c9}">
+		<property name="color">
+			<value>Red</value>
+		</property>
 		<property name="start">
 			<value>21.286764705882351</value>
 		</property>
@@ -953,6 +1029,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{f9495ec4-f0a5-4fe9-b37b-da648a1a3b98}">
+		<property name="color">
+			<value>Red</value>
+		</property>
 		<property name="start">
 			<value>28.345588235294116</value>
 		</property>
@@ -967,6 +1046,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{cdbfd6d8-1603-4b9c-878b-6cab36887823}">
+		<property name="color">
+			<value>Red</value>
+		</property>
 		<property name="isAsync">
 			<value>true</value>
 		</property>
