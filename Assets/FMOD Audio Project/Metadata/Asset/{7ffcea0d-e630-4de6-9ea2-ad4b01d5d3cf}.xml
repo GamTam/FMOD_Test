@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EncodableAsset" id="{7ffcea0d-e630-4de6-9ea2-ad4b01d5d3cf}">
+		<property name="assetPath">
+			<value>Bulblax Kingdom/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bf53725b-1031-449a-b8e4-66054ec2fc21}</destination>
+		</relationship>
+	</object>
+</objects>

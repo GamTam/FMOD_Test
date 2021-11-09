@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{b306f79a-12d3-458a-854d-0c1ad5dfb9a0}">
+		<property name="assetPath">
+			<value>Bulblax Kingdom/snare_full.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>15.260624999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bf53725b-1031-449a-b8e4-66054ec2fc21}</destination>
+		</relationship>
+	</object>
+</objects>

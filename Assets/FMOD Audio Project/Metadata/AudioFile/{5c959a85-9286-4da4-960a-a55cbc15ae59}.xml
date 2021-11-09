@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{5c959a85-9286-4da4-960a-a55cbc15ae59}">
+		<property name="assetPath">
+			<value>Bulblax Kingdom/bass_drum.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>8.7224166666666658</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bf53725b-1031-449a-b8e4-66054ec2fc21}</destination>
+		</relationship>
+	</object>
+</objects>

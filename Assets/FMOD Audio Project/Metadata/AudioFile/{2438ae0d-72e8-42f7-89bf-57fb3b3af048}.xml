@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{2438ae0d-72e8-42f7-89bf-57fb3b3af048}">
+		<property name="assetPath">
+			<value>Bulblax Kingdom/Respones/response_harm_2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.9190416666666668</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bf53725b-1031-449a-b8e4-66054ec2fc21}</destination>
+		</relationship>
+	</object>
+</objects>

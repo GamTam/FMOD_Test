@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{713b27e2-4c42-4ce5-8874-7e94a9587bde}">
+		<property name="name">
+			<value>Treasure Distance</value>
+		</property>
+		<relationship name="folder">
+			<destination>{b8895ad0-9d30-4c17-9582-a0c5c2d57b75}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{c547edc9-5031-4f3c-a198-b4f14dde229b}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{c547edc9-5031-4f3c-a198-b4f14dde229b}">
+		<property name="maximum">
+			<value>100</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
